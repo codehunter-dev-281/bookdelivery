@@ -19,5 +19,4 @@ public class OrderGetByCustomerResponse {
     private LocalDateTime createdAt;
     private Set<OrderItemDTO> orderItems;
 
-
 }
